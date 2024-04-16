@@ -1,0 +1,14 @@
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Videojuego1\Videojuego1\bin\Debug\net8.0\Videojuego1.exe
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Videojuego1\Videojuego1\bin\Debug\net8.0\Videojuego1.deps.json
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Videojuego1\Videojuego1\bin\Debug\net8.0\Videojuego1.runtimeconfig.json
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Videojuego1\Videojuego1\bin\Debug\net8.0\Videojuego1.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Videojuego1\Videojuego1\bin\Debug\net8.0\Videojuego1.pdb
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Videojuego1\Videojuego1\obj\Debug\net8.0\Videojuego1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Videojuego1\Videojuego1\obj\Debug\net8.0\Videojuego1.AssemblyInfoInputs.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Videojuego1\Videojuego1\obj\Debug\net8.0\Videojuego1.AssemblyInfo.cs
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Videojuego1\Videojuego1\obj\Debug\net8.0\Videojuego1.csproj.CoreCompileInputs.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Videojuego1\Videojuego1\obj\Debug\net8.0\Videojuego1.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Videojuego1\Videojuego1\obj\Debug\net8.0\refint\Videojuego1.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Videojuego1\Videojuego1\obj\Debug\net8.0\Videojuego1.pdb
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Videojuego1\Videojuego1\obj\Debug\net8.0\Videojuego1.genruntimeconfig.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Videojuego1\Videojuego1\obj\Debug\net8.0\ref\Videojuego1.dll
